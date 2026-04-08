@@ -1,6 +1,6 @@
 joblib
 pandas==2.3.3
-streamlit==1.28.0
+streamlit
 numpy==2.3.0
 shap
 matplotlib
