@@ -1,1 +1,7 @@
-
+joblib
+pandas
+streamlit
+numpy
+shap
+matplotlib
+scikit-learn
